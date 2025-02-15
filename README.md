@@ -8,7 +8,7 @@
 
 ## Not the Onion Classifier:
 
-1. Approach with some manual Feature Selection, Word2Vec and
+1. Approach with some manual Feature Selection, Word2Vec and TFIDF
 2. Approach with Word2Vec (google pretrained Word2Vec finetunded on Onion dataset to better capture satiric nature in semantics) and LSTM
 
 ## Culture-Bot:

@@ -13,3 +13,4 @@
 
 ## Culture-Bot:
 - A Telegram Chatbot advising you on german customs and culture (DeepSeek R1 finetunded on augmented Dataset consisting of Reddit AskAGerman and a culture Advisor from Goethe University)
+  https://github.com/JRoemisch/DeepseekGermanCultureGuide
